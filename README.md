@@ -2,7 +2,7 @@
 
 ![logo](images/logo.png)
 
-inufeed.com is an RSS reader inspired by the layout and functionality of Netvibes. The main motivation behind the project is to provide same box view.
+inufeed.com is an RSS reader based on [FreshRSS](https://github.com/FreshRSS/FreshRSS) inspired by the layout and functionality of Netvibes. The main motivation behind the project is to provide same box view.
 
 ![example](images/example.png)
 
